@@ -1,0 +1,57 @@
+    1  pwd
+    2  whoami
+    3  who
+    4  id
+    5  w
+    6  last
+    7  uname -a
+    8  cat /proc/cpuinfo
+    9  cat /proc/meminfo
+   10  cat /proc/partitions
+   11  free -h
+   12  df -h
+   13  ps aux
+   14  top
+   15  history
+   16  exit
+   17  whoami
+   18  who
+   19  id
+   20  w
+   21  last
+   22  uname -a
+   23  cat /proc/cpuinfo
+   24  cat /proc/meminfo
+   25  cat /proc/partitions
+   26  free -h
+   27  df -h
+   28  lsb_release -a
+   29  lsblk
+   30  lscpu
+   31  ps aux
+   32  top
+   33  history
+   34  Emanuel Galicia
+   35  exit
+   36  ssh-keygen -t ed25519
+   37  ls -l
+   38  pwd
+   39  ls -la
+   40  cd .ssh
+   41  ls -l
+   42  cat id_ed25519.pub
+   43  cd ..
+   44  ls -l
+   45  mkdir clase3
+   46  ls -l
+   47  cd clase3/
+   48  git clone git@github.com:elema3/Clase3Arq_Galicia.git
+   49  ls -l
+   50  cd Clase3Arq_Galicia/
+   51  pwd
+   52  ls -l
+   53  cat README.md 
+   54  ls -la
+   55  git status
+   56  history
+   57  history > historial.txt
